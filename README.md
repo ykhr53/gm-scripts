@@ -1,1 +1,1 @@
-# gm-scripts
+# Greasemonkey/Tampermonkey scripts
